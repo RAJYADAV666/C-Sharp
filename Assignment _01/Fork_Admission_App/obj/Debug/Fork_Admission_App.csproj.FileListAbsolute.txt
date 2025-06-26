@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\c#\Desktop_Application\Fork_Admission_App\Fork_Admission_App\bin\Debug\Fork_Admission_App.exe.config
+C:\Users\DELL\Desktop\c#\Desktop_Application\Fork_Admission_App\Fork_Admission_App\bin\Debug\Fork_Admission_App.exe
+C:\Users\DELL\Desktop\c#\Desktop_Application\Fork_Admission_App\Fork_Admission_App\bin\Debug\Fork_Admission_App.pdb
+C:\Users\DELL\Desktop\c#\Desktop_Application\Fork_Admission_App\Fork_Admission_App\obj\Debug\Fork_Admission_App.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\c#\Desktop_Application\Fork_Admission_App\Fork_Admission_App\obj\Debug\Fork_Admission_App.Frm_Login.resources
+C:\Users\DELL\Desktop\c#\Desktop_Application\Fork_Admission_App\Fork_Admission_App\obj\Debug\Fork_Admission_App.Properties.Resources.resources
+C:\Users\DELL\Desktop\c#\Desktop_Application\Fork_Admission_App\Fork_Admission_App\obj\Debug\Fork_Admission_App.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\c#\Desktop_Application\Fork_Admission_App\Fork_Admission_App\obj\Debug\Fork_Admission_App.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\c#\Desktop_Application\Fork_Admission_App\Fork_Admission_App\obj\Debug\Fork_Admission_App.exe
+C:\Users\DELL\Desktop\c#\Desktop_Application\Fork_Admission_App\Fork_Admission_App\obj\Debug\Fork_Admission_App.pdb
+C:\Users\DELL\Desktop\c#\Desktop_Application\Fork_Admission_App\Fork_Admission_App\obj\Debug\Fork_Admission_App.Frm_Add_New_Student_Details.resources
+C:\Users\DELL\Desktop\c#\Desktop_Application\Fork_Admission_App\Fork_Admission_App\obj\Debug\Fork_Admission_App.Frm_Student_Details.resources
