@@ -31,7 +31,7 @@ namespace Sgm_College_Admission_App
         {
             if(FCon.State != ConnectionState.Closed)
             {
-                FCon_Stop();
+                FCon.Close();
             }
         }
 
