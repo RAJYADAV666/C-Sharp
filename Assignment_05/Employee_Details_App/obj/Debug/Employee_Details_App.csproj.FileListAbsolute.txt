@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\c#\Desktop_Application\Assignment_05\Employee_Details_App\bin\Debug\Employee_Details_App.exe.config
+C:\Users\DELL\Desktop\c#\Desktop_Application\Assignment_05\Employee_Details_App\bin\Debug\Employee_Details_App.exe
+C:\Users\DELL\Desktop\c#\Desktop_Application\Assignment_05\Employee_Details_App\bin\Debug\Employee_Details_App.pdb
+C:\Users\DELL\Desktop\c#\Desktop_Application\Assignment_05\Employee_Details_App\obj\Debug\Employee_Details_App.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\c#\Desktop_Application\Assignment_05\Employee_Details_App\obj\Debug\Employee_Details_App.frm_Employe_Details.resources
+C:\Users\DELL\Desktop\c#\Desktop_Application\Assignment_05\Employee_Details_App\obj\Debug\Employee_Details_App.Properties.Resources.resources
+C:\Users\DELL\Desktop\c#\Desktop_Application\Assignment_05\Employee_Details_App\obj\Debug\Employee_Details_App.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\c#\Desktop_Application\Assignment_05\Employee_Details_App\obj\Debug\Employee_Details_App.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\c#\Desktop_Application\Assignment_05\Employee_Details_App\obj\Debug\Employee_Details_App.exe
+C:\Users\DELL\Desktop\c#\Desktop_Application\Assignment_05\Employee_Details_App\obj\Debug\Employee_Details_App.pdb
